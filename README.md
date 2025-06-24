@@ -50,11 +50,11 @@ Com exceção de Ciências Humanas, houve **estagnação ou queda** no desempenh
 
 enem_rn_analysis/
 │
-├── data/ # Arquivos brutos e tratados
+├── data/ # Arquivos brutos
 ├── notebooks/ # Notebooks Jupyter (Colab) usados na análise
-├── results/ # Gráficos, tabelas e relatórios intermediários
-├── README.md # Este arquivo
-└── report.pdf # Relatório completo (PDF)
+├── results/ # Arquivos trataods, gráficos, tabelas e relatórios intermediários
+└── README.md # Este arquivo
+└── relatorio_enem.pdf # Relatório completo (PDF)
 
 
 ---
