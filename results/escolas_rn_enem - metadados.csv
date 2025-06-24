@@ -1,0 +1,23 @@
+Código,Nome da Variável,Descrição,Codificação / Observação
+Q1,Ano,Ano da edição do ENEM por Escola,–
+Q2,UF,Sigla da Unidade da Federação da escola,Ex: RN
+Q3,Municipio,Nome do município da escola,–
+Q4,Dependencia_Administrativa,Tipo da dependência administrativa da escola,"1=Federal, 2=Estadual, 3=Municipal, 4=Privada"
+Q5,Localizacao_Escola,Tipo de Localização da escola,"1=Urbana, 2=Rural"
+Q6,Matriculas,Número de alunos matriculados no Ensino Médio,–
+Q7,Participantes_ENEM,Número total de participantes do ENEM,–
+Q8,Taxa_Participacao,Taxa de participação no ENEM,%
+Q9,Media_Ciencias_Natureza,Média das notas de Ciências da Natureza,–
+Q10,Media_Ciencias_Humanas,Média das notas de Ciências Humanas,–
+Q11,Media_Linguagens_Codigos,Média das notas de Linguagens e Códigos,–
+Q12,Media_Matematica,Média das notas de Matemática,–
+Q13,Media_Redacao,Média das notas de Redação,–
+Q14,Media_Prova_Objetiva,Média da prova objetiva,–
+Q15,Media_Total,Média total geral,–
+Q16,Indice_Status_Educacional,Índice Nacional de Status Educacional,Grupo 1 a 6
+Q17,Percentual_Formacao_Docente,Percentual de professores com formação adequada,%
+Q18,Taxa_Permanencia,Indicador de Permanência na Escola,%
+Q19,Taxa_Aprovacao,Taxa de aprovação dos alunos,%
+Q20,Taxa_Reprovacao,Taxa de reprovação dos alunos,%
+Q21,Taxa_Abandono,Taxa de abandono dos alunos,%
+Q22,Porte_Escola,Tamanho da escola pelo número de alunos,"1=De 1 a 30, 2=De 31 a 60, 3=De 61 a 90, 4=Maior que 90"
